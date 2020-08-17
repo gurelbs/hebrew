@@ -1,5 +1,5 @@
-# gurelbs.github.io
+# http://hebrew.cf/
 
+http://hebrew.cf/
 
-
-<a href="https://gurelbs.github.io">מתמלל בעברית</a>
+<a href="http://hebrew.cf/">מתמלל בעברית</a>
