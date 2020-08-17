@@ -2,4 +2,4 @@
 
 
 
-<a href="https://www.gurelbs.github.io">מתמלל בעברית</a>
+<a href="https://gurelbs.github.io">מתמלל בעברית</a>
